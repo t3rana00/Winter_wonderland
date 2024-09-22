@@ -8,4 +8,4 @@ Welcome to my Winter Wonderland website, where you can explore the beauty of win
 - Winter activities
 - Festive decorations
 
-![Winter Image](images/winterwonderland.jpg)  
+![Winter](./images/winterwonderland.jpg)  
