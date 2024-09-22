@@ -19,3 +19,4 @@
 > Finns' physical activity includes swimming, hiking, camping, hunting, sailing, golf, skiing, and ice hockey. For them, taking a break from the modern world is a great way to reflect and clear one's thoughts. 
 
 ![Sauna](./assets/images/sauna.jpg.avif)  
+>With an estimated three million saunas in Finland, it’s practically an impossible task to spotlight just five. Here’s a sampling of sauna experiences in different parts of the country – consider it an amuse-bouche for more in-depth explorations.
